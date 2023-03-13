@@ -6,11 +6,11 @@ function App() {
 
   return (
 
-    
+    <><h1>birgbjgrnvkjt</h1><p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Iste quod temporibus, maxime ad commodi incidunt beatae ipsum sequi pariatur quis culpa excepturi laborum optio dolorem dolor doloremque iure, nemo libero!</p></>
   )
 };
 
-   <h1>birgbjgrnvkjt</h1>)
+   
 }
 
 export default App;
